@@ -1,4 +1,4 @@
-# To run enter "python3 Mason_Kling_hw1.py" in terminal
+# To run enter "python3 LeapYearNEH.py" in terminal
 # Or however your computer runs python files
 
 num = input()

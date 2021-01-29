@@ -1,4 +1,4 @@
-# To run enter "python3 Mason_Kling_hw1.py" in terminal
+# To run enter "python3 LeapYearWEH.py" in terminal
 # Or however your computer runs python files
 
 while True:
